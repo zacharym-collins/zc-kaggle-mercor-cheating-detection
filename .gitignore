@@ -1,2 +1,4 @@
 input/
 .venv/
+catboost_info/
+submission.csv
